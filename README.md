@@ -1,4 +1,4 @@
-# Apps Mobile Sederhana menggunakan Kotlin dengan bantuan AI.
+# Apps Mobile Sederhana menggunakan Kotlin dengan bantuan AI. ## *Android Studio
 Aplikasi mobile sederhana untuk kompetisi RamadhanUpgrade 2026, dibuat menggunakan Kotlin untuk platform Android.
 ## Tema Ramadhan
 Aplikasi ini mengangkat tema Ramadhan dengan:
@@ -9,4 +9,3 @@ Aplikasi ini mengangkat tema Ramadhan dengan:
 - Language: Kotlin
 - Framework: Android SDK
 - Minimum SDK: API 21 (Android 5.0)
-# Android Studio
