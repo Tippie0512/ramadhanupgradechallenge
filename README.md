@@ -1,11 +1,12 @@
-# Ramadhan Upgrade Mobile App
+# Apps Mobile Sederhana menggunakan Kotlin dengan bantuan AI.
 Aplikasi mobile sederhana untuk kompetisi RamadhanUpgrade 2026, dibuat menggunakan Kotlin untuk platform Android.
 ## Tema Ramadhan
 Aplikasi ini mengangkat tema Ramadhan dengan:
 - Salam Assalamu'alaikum
 - Informasi progress bulan Ramadhan
 - Doa untuk buka puasa
-## Teknologi
+## Tech
 - Language: Kotlin
 - Framework: Android SDK
 - Minimum SDK: API 21 (Android 5.0)
+## Android Studio
