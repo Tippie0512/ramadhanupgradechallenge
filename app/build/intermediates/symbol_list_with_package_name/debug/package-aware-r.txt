@@ -3131,6 +3131,7 @@ id anticipate
 id arc
 id asConfigured
 id async
+id authorTextView
 id auto
 id autoComplete
 id autoCompleteToEnd
@@ -3153,6 +3154,7 @@ id cache_measures
 id callMeasure
 id cancel_button
 id cardView
+id cardViewDoa
 id carryVelocity
 id cbSedekah
 id cbSholat
@@ -3781,6 +3783,7 @@ string abc_toolbar_collapse_description
 string androidx_startup
 string app_name
 string appbar_scrolling_view_behavior
+string author_credit
 string bottom_sheet_behavior
 string bottomsheet_action_collapse
 string bottomsheet_action_expand

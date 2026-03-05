@@ -3130,6 +3130,7 @@ int id anticipate 0x7f08004f
 int id arc 0x7f080050
 int id asConfigured 0x7f080051
 int id async 0x7f080052
+int id authorTextView 0x7f0801fa
 int id auto 0x7f080053
 int id autoComplete 0x7f080054
 int id autoCompleteToEnd 0x7f080055
@@ -3152,6 +3153,7 @@ int id cache_measures 0x7f080065
 int id callMeasure 0x7f080066
 int id cancel_button 0x7f080067
 int id cardView 0x7f080068
+int id cardViewDoa 0x7f0801fb
 int id carryVelocity 0x7f080069
 int id cbSedekah 0x7f08006a
 int id cbSholat 0x7f08006b
@@ -3780,6 +3782,7 @@ int string abc_toolbar_collapse_description 0x7f0f001a
 int string androidx_startup 0x7f0f001b
 int string app_name 0x7f0f001c
 int string appbar_scrolling_view_behavior 0x7f0f001d
+int string author_credit 0x7f0f00b2
 int string bottom_sheet_behavior 0x7f0f001e
 int string bottomsheet_action_collapse 0x7f0f001f
 int string bottomsheet_action_expand 0x7f0f0020

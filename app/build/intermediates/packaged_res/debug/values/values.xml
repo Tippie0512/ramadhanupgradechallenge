@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">RamadhanUpgradeChallenge</string>
+    <string name="author_credit">Habib Al-Bukhari TIF°25</string>
     <string name="check_progress">Cek Progress Saya</string>
     <string name="daily_challenge_title">Tantangan Hari Ini</string>
     <string name="doa_buka_puasa_text">Dzahabaz zhama\'u wabtallatil \'uruqu wa tsabatal ajru, insyaallah.</string>
