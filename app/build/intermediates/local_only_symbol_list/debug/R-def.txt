@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnShare
+id btnUpdateProgress
+id cardView
+id cbSedekah
+id cbSholat
+id cbTaraweh
+id cbTilawah
+id headerBackground
+id titleTextView
+id tvDoaContent
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string check_progress
+string daily_challenge_title
+string doa_buka_puasa_text
+string doa_buka_puasa_title
+string share_goodness
+string share_text
+string task_sedekah
+string task_sholat
+string task_taraweh
+string task_tilawah
+string welcome_message
+style AppTheme

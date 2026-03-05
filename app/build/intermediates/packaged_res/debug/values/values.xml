@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RamadhanUpgradeChallenge</string>
+    <string name="check_progress">Cek Progress Saya</string>
+    <string name="daily_challenge_title">Tantangan Hari Ini</string>
+    <string name="doa_buka_puasa_text">Dzahabaz zhama\'u wabtallatil \'uruqu wa tsabatal ajru, insyaallah.</string>
+    <string name="doa_buka_puasa_title">Doa Buka Puasa</string>
+    <string name="share_goodness">Bagikan Kebaikan</string>
+    <string name="share_text">Saya sangat senang bisa mengikuti kegiatan RamadhanUpgrade, banyak ilmu dan pengalaman bermanfaat yang bisa saya dapatkan, jangan lupa bagi kawan-kawan yang belum ikut RamadhanUpgrade tahun ini semoga di tahun depan bisa ikutan yah, agar kita bisa sama-sama sharing ilmu bareng :)</string>
+    <string name="task_sedekah">Sedekah Hari Ini</string>
+    <string name="task_sholat">Sholat 5 Waktu</string>
+    <string name="task_taraweh">Sholat Tarawih</string>
+    <string name="task_tilawah">Tilawah Al-Quran</string>
+    <string name="welcome_message">Assalamu\'alaikum! Mari tingkatkan ibadah di bulan suci.</string>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@android:color/holo_green_dark</item>
+        <item name="colorPrimaryDark">@android:color/holo_green_dark</item>
+        <item name="colorAccent">@android:color/holo_green_light</item>
+    </style>
+</resources>
