@@ -1,4 +1,4 @@
-# Apps Mobile Sederhana menggunakan Kotlin dengan bantuan AI. ## *Android Studio
+# Apps Mobile Sederhana menggunakan Kotlin dengan bantuan AI dan Android Studio sebagai IDE-nya.
 Aplikasi mobile sederhana untuk kompetisi RamadhanUpgrade 2026, dibuat menggunakan Kotlin untuk platform Android.
 ## Tema Ramadhan
 Aplikasi ini mengangkat tema Ramadhan dengan:
